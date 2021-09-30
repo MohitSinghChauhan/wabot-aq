@@ -10,7 +10,7 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Kabir0704/wabot-aq
+> git clone https://github.com/Kabir0104k/wabot-aq
 > cd wabot-aq
 > npm install
 ```
@@ -93,4 +93,4 @@ conn.logger.level = 'debug'
 
 #### Powered By : [`XTEAM`](https://api.xteam.xyz)
 
-#### Author / Creator : [`KABIR`](https://GitHub.com/Kabir0704)
+#### Author / Creator : [`KABIR`](https://GitHub.com/Kabir0104k)
